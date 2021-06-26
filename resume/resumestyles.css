@@ -2,9 +2,14 @@ h1{
   text-align:center;
 }
 
+hr{
+  border-top: solid black 2px;
+}
+
 body{
-  margin: 0;
-  padding: 0;
+  margin: 10px;
+  padding:0px;
+
   font-family: "Arial", sans-serif;", cursive, sans-serif;
   font-size:12px;
 
